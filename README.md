@@ -49,7 +49,7 @@ Each of these elements contributes to a clear, user-friendly design by establish
 
 - High-fidelity wireframes, on the other hand, are more detailed and closely resemble the final product. They include specific typography, colors, images, and sometimes interactive elements. High-fidelity wireframes are usually created later in the design process to refine the user interface, demonstrate functionality, and provide a clear blueprint for developers.
 
-## Type of Wireframe Present Here
+## Types of Wireframes
 
 - The wireframe in this selection is a [specify type: low-fidelity or high-fidelity based on the code]. It is characterized by [briefly describe features present in the code, e.g., simple placeholders, detailed UI elements, etc.], indicating its use in the [early/late] stages of the design process.
 
